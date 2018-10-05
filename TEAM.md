@@ -1,14 +1,15 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: Andreas Dangaris
+Role: CEO
 
-## Team Member 1
+## Marketing
 
-Name: [name]
-Role: [role]
+Name: Vito
+Role: Design
 
-## Team Member 2
+## Community
 
-Name: [name]
-Role: [role]
+Name: Kamil
+Role: Admin Telegram Channel
+https://t.me/sextronspartys

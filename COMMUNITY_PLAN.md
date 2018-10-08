@@ -4,7 +4,7 @@
 ---
 
 
-## After reaching a certain high-rank you will enjoy special benefits. Our TOP 100 STP holders are our special guests with free entry and free drinks. Our TOP 10 get free entry to our VIP-AREA  and free overnight stay.
+## After reaching a certain high-rank you will enjoy special benefits. Our TOP 69 STP holders are our special guests with free entry and free drinks. Our TOP 6 get free entry to our VIP-AREA  and free overnight stay.
 
 
 ---

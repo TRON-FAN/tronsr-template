@@ -2,7 +2,7 @@
 
 Our reward-system is a cycling system which includes the STP-Token (SexTronsPartys) and the SPEED-Token (1 SPEED = 1TRX).
 
-By voting for SexTronsandRockandRoll you will receive STP-Tokens.
+By voting for SexTronsAndRocknRoll you will receive STP-Tokens.
 (Note that you are able to purchase STP-Tokens as well.)
 
 Every STP-Holder will be ranked in our system. The more STP you own the more you rank up. After being elected as a SR-Representative our 69 highest ranks amongst our STP-Holders will receive 100% rewards in form of SPEED for as long as they hold their position in our ranking system.

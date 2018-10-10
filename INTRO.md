@@ -13,4 +13,4 @@ Our SR-name is SexTronsandRocknRoll.
 
 Our coin-abbreviation is STP (SexTronsPartys).
 
-If you like our project please vote for us and lets rock the future together.
+If you like our project please vote for us and lets rock the future together. 

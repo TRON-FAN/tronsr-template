@@ -18,7 +18,7 @@ Rank 8: Event expenditure
 
 Rank 9: Event expenditure
 
-The financial means gained by the first 10 ranks will be given to SexTronsandRocknRoll to pay the server-upkeep, including server backups and server updates.
+The financial means gained by the first 9 ranks will be given to SexTronsandRocknRoll to pay the server-upkeep, including server backups and server updates.
 
 Rank 7 to 9 is assigned to SexTronsandRocknRoll as well to organize projects and realize our events. 
 The remaining ranks are considered as official team members. To earn your spot in those ranks you have to purchase STP-Tokens. Those who hold their position in TOP-69 can approach us anytime. The more you hodl the higher your rank.

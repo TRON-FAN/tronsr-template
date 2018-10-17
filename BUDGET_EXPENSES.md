@@ -1,26 +1,42 @@
-## 100% LIFETIME-REWARDS FOR OUR TOP-69-RANKINGS
+### Roadmap:
 
-Our reward-system is a cycling system which includes the STP-Token (SexTronsPartys) and the SPEED-Token (1 SPEED = 1TRX).
+## Steps before - Super Representative
 
-By voting for SexTronsAndRocknRoll you will receive STP-Tokens.
-(Note that you are able to purchase STP-Tokens as well.)
+# Q4
 
-Every STP-Holder will be ranked in our system. The more STP you own the more you rank up. After being elected as a SR-Representative our 69 highest ranks amongst our STP-Holders will receive 100% rewards in form of SPEED for as long as they hold their position in our ranking system.
+- Launch Website
 
-The rewards will be distributed equally amongst our high-ranks.
-1 SPEED is equivalent to 1 TRX.
+- Establishing Rewarding Concept
 
-In addition to the SPEED rewards our highest ranked members will enjoy special benefits at our events. Such as FREE entrance, FREE drinks etc.. Our TOP 10 will have the pleasure of our exclusive VIP-AREA´s and a FREE overnight stay.
+- Launching Vote Process and Aidrop
 
-How can I obtain STP-Tokens? 
-## Option 1:
-Every three months you can purchase STP-Tokens. https://tronscan.org/#/token/SexTronsPartys
+# Q1
 
-## Option 2:
-Join our social medias and receive AIRDROPS multiple times a day. https://t.me/sextronspartys
+- Cooperation with potential Partners
 
-## Option 3:
-Our voters receive on a daily basis a reward of 1% of our unblocked STP-Token. https://tronscan.org/#/token/SexTronsPartys
+- Advertising STP
 
+- Further improvements of Rewarding System - automatisation
 
-Our concept is easy and fair. Vote -> receive rewards -> Hold -> receive more rewards.
+- Airdrops
+
+# Q2
+
+- Before SR Parties - Only for Top Voters
+
+- Advertising STP 
+
+- Airdrops
+
+## Steps after reaching Super Representative Status
+
+- Establishing Server Infrastructure and Nodes
+
+- Contracting Partnerships
+
+- launching VIP Events around the globe
+
+- Rewards for TOP 69 Investors
+
+- APP Release (Wallet, Payment & Partyfinder)
+

@@ -2,7 +2,7 @@
 
 ## Steps before - Super Representative
 
-# Q4
+# Q4 2018
 
 - Launch Website
 
@@ -10,7 +10,7 @@
 
 - Launching Vote Process and Aidrop
 
-# Q1
+# Q1 2019
 
 - Cooperation with potential Partners
 
@@ -20,7 +20,7 @@
 
 - Airdrops
 
-# Q2
+# Q2 2019
 
 - Before SR Parties - Only for Top Voters
 

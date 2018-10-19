@@ -1,22 +1,31 @@
 ## Top 69 addresses – budget lines – ranking system
 
-Rank 1: Server 1
+#### Rank 1: Server 1 
+TRX Adress: TC9xAQ4VnJ7y24ob9PKeDKNyFtcdDHgJEM
 
-Rank 2: Server 1 Backup
+#### Rank 2: Server 1
+TRX Adress: Backup TUDeDoLMD12PjEL5EubE2sasaqH68aXL52
 
-Rank 3: Server 2
+#### Rank 3: Server 2
+TRX Adress: TXmmzBLByZKyp9e6G2gxfqckCCagjASKmw
 
-Rank 4: Server 2 Backup
+#### Rank 4: Server 2 Backup
+TRX Adress: TEVE82X62fDdbwrQxZmAYtfaMeax5Y1UpW
 
-Rank 5: Server Updates
+#### Rank 5: Server Updates
+TRX Adress: TBmivUTA4nXMh5K137BhVeRdhzXmd5MvCT
 
-Rank 6: Server Updates
+#### Rank 6: Server Updates
+TRX Adress: TSR97tRdJJTqcGfWUnNEF3atNZeigWbXJt
 
-Rank 7: Event expenditure
+#### Rank 7: Event expenditure
+TRX Adress: TTqMtC87mFLjLDH4w811jbZ1E2rhGxzFDf
 
-Rank 8: Event expenditure
+#### Rank 8: Event expenditure
+TRX Adress: TGt8vGZypjJ1fm8yKs1eTmkrT8xM66kJaS
 
-Rank 9: Event expenditure
+#### Rank 9: Event expenditure
+TRX Adress: TSEzuEdpLXAvM2Be5BHg9RzMPvp6FN97Sw
 
 The financial means gained by the first 9 ranks will be given to SexTronsandRocknRoll to pay the server-upkeep, including server backups and server updates.
 

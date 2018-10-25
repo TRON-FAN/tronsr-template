@@ -74,7 +74,7 @@ In addition to the SPEED rewards our highest ranked members will enjoy special b
 Every three months you can purchase STP-Tokens. https://tronscan.org/#/token/SexTronsPartys
 
 ### Option 2:
-Join our social medias and receive AIRDROPS multiple times a day. https://t.me/sextronspartys
+Join our social medias and receive AIRDROPS multiple times a day. https://t.me/sextronspartyss
 
 ### Option 3:
 Our voters receive on a daily basis a reward of 1% of our unblocked STP-Token. https://tronscan.org/#/token/SexTronsPartys

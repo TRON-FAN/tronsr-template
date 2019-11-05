@@ -1,7 +1,7 @@
-## Masternode v2 Germany :
+## Masternode v2:
 
-CPU	AMD OPTERON CPU , 48 cores Ram	265 GB ECC REG Connection	10GBit/s HDD	2 x 512 GB SSD Raid 1 HDD 2 x 4 TB Sata Raid 1
+24 CPUS, 48 THREADS, 128 GB RAM und 2x 960 GB SSD NVME
 
-## Masternode Germany :
+## Masternode Austria:
 
-CPU	Intel(R) Xeon(R) CPU E5-1650 @ 3.50GHz, 12 cores Ram	128 GB Connection	1GBit/s HDD	2 x 1 TB SSD Raid 1
+24 CPUS, 48 THREADS, 128 GB RAM und 2x 960 GB SSD NVME

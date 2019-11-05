@@ -1,3 +1,5 @@
 ## Founder
 
-We are anonymous team
+https://twitter.com/TronsRocknRoll
+https://twitter.com/BitBlockArt
+

@@ -3,8 +3,15 @@ Wir decken Scam Token auf und berichten alles in unseren Telegram Channels
 Wir führen Buch in der Blockchain wer zu uns gehört
 Wir unterstützen unsere Tron Angel Community Member, wenn wir Kohle verdient haben, dann geben wir diese nur an Mitglieder weiter, die den TANGEL TOKEN besitzen
 Wir arbeiten gemeinsam an Projekten und als Belohnung gibt es den TANGEL Token
-Wir wählen SexTronRockAndRoll und erhalten den TANGEL Token, dieser wird je nach belieben und treue der Votes individuell abgeworfen, es ist keine Garantie einen zu erhalten.
-Wir greifen niemals unsere eigenen Mitglieder an und unterstützen uns in jeder Diskussion
+Wir wählen SexTronRockAndRoll und erhalten den TANGEL Token, dieser wird je nach belieben und treue der Votes individuell abgeworfen, dieser wird alle 30 Tage abgeworfen, dazu müssen die Votes 30 Tage ununterbrochen auf unserer Node liegen.
+
+50k VOTE´s 30 Tage lang, dann erhältst du einen TANGEL.
+
+100k VOTE´s 30 Tage lang, dann erhältst du zwei TANGEL.
+
+150k VOTE´s 30 Tage lang, dann erhältst du drei TANGEL.
+
+usw...
 
 
 
